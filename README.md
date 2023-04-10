@@ -1,5 +1,5 @@
 # SAM-Enum
-Enumeration your subdomain and give you the bufs
+Enumeration your subdomain and give you the bugs
 
 
 
